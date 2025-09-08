@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ac18d03465debfa4ca7a5393edd0b17f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - plantPrefab: {fileID: 8141224073913991352, guid: 1abd950f76dac424abd539da8eb42e9b, type: 3}
+  - herbivorePrefab: {fileID: 8283590008964979354, guid: 3234eebd4421ce642a97fc2c3d3a69e2, type: 3}
+  - carnivorePrefab: {fileID: 8441941958465585767, guid: c36571b40a693be4ca8013ac8d93fe65, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
